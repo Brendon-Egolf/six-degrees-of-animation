@@ -1,5 +1,4 @@
 import {Component, AfterContentInit} from '@angular/core';
-import { DataSet } from 'vis';
 
 @Component({
   selector: 'app-root',
